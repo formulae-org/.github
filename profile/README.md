@@ -2,7 +2,11 @@
 
 Fōrmulæ is a software framework for visualization and edition of complex expressions (either mathematical expressions or expressions from many other fields). Fōrmulæ also includes the manipulation of such these expressions, so Fōrmulæ is also a (Turing complete) programming —and symbolic— language. If you want to know more about Fōrmulæ, please refehttps://formulae.org).
 
+### The framework
+
 Here you can find the source code for the Fōrmulæ framework.
+
+### The packages
 
 With Fōrmulæ, you can create code to visualize, edit or manipulate expressions from many fields. The code is grouped in units called packages. The code for every package is hosted in the following repositories:
 
@@ -29,5 +33,7 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 | Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar  part management |
 | Localization | [package-localization-js](https://github.com/formulae-org/package-localization-js) | Languages, countries, scripts, numerals, calendars, locales, time zones. |
 | Plot | [package-plot-js](https://github.com/formulae-org/package-plot-js) | Mathematical plots. 2D function plot, 2D parametric plot, 2D polar curve, 3D parametric curve, 3D function surface, 3D parametric surface, surface map, surface contour. |
+
+### The content of website
 
 Moreover, with Fōrmulæ you can create formatted content (text with styles, use of images, paragraphs, bulleted list, alignment, etc.) (typesetting). All the content of its website —tutorials, reference, examples, etc.— is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
