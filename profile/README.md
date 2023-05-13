@@ -26,7 +26,7 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 | Diagramming | [package-diagramming-js](https://github.com/formulae-org/package-diagramming-js) | Diagrams, tree structures (for now). |
 | Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Typesetting (see below). |
 | Visualization | [package-visualization-js](https://github.com/formulae-org/package-visualization-js) | Changing the look of expressions, font color, size and attributes (bold, italic), crossing out, arrangement of expressions. |
-| Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitswise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
+| Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitwise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
