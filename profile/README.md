@@ -16,7 +16,7 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 | Relation | [package-relation-js](https://github.com/formulae-org/package-relation-js) | Basic comparison operations, three-way comparison, minimum, maximum, membership. |
 | Logic | [package-logic-js](https://github.com/formulae-org/package-logic-js) | Logic literals, basic logic operations (negation, conjunction, disjunction, conditional, equivalence, exclusive disjunction). |
 | Expression | [package-expression-js](https://github.com/formulae-org/package-expression-js) | Common operations to expressions and reflection, such as cardinality, subexpression, insertion and deletion of subexpressions, serialization/deserialization, programatic creation of expressions. |
-| List | [package-list-js](https://github.com/formulae-org/package-list-js) | List manipulation, list and table creation, operation with list and matrices. |
+| List | [package-list-js](https://github.com/formulae-org/package-list-js) | List manipulation, list and table creation, mathematical operations with lists and matrices |
 | Symbolic | [package-symbolic-js](https://github.com/formulae-org/package-symbolic-js) | Definition and referecing of local and global symbols and functions, lambda expressions. |
 | Strings | [package-string-js](https://github.com/formulae-org/package-string-js) | Creation and operations with strings, text, and regular expressions, Unicode support. |
 | Color | [package-color-js](https://github.com/formulae-org/package-color-js) | Creation and operations on colors, visual representation of colors. |
