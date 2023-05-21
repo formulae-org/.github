@@ -1,6 +1,6 @@
 # Fōrmulæ
 
-Fōrmulæ is a software framework for visualization and edition of complex expressions (either mathematical expressions or expressions from many other fields). Fōrmulæ also includes the manipulation of such these expressions, so Fōrmulæ is also a (Turing complete) programming —and symbolic— language. If you want to know more about Fōrmulæ, please refer to is website [formulae.org](https://formulae.org).
+Fōrmulæ is a software framework for visualization and edition of complex expressions (either mathematical expressions or expressions from many other fields). Fōrmulæ also includes the manipulation of such these expressions, so Fōrmulæ is also a (Turing complete) programming —and symbolic— language. If you want to know more about Fōrmulæ, please refer to its website [formulae.org](https://formulae.org).
 
 ### The base program
 
