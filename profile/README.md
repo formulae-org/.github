@@ -10,7 +10,7 @@ Fōrmulæ is a software framework for visualization and edition of complex expre
 
 With Fōrmulæ, you can create code to visualize, edit or manipulate expressions from many fields. The code is grouped in units called packages. The code for every package is hosted in the following repositories:
 
-| Package | Repository (JavaScript edition) | Brief description |
+| Package | Repository                      | Brief description |
 | ------- | ------------------------------- | ----------------- |
 | Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal, rational and complex numbers. Basic arithmetic, trascendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
 | Relation | [package-relation-js](https://github.com/formulae-org/package-relation-js) | Basic comparison operations, three-way comparison, minimum, maximum, membership. |
