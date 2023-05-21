@@ -4,14 +4,14 @@ Fōrmulæ is a software framework for visualization and edition of complex expre
 
 ### The framework
 
-Here you can find the source code for the Fōrmulæ framework.
+[Here](https://github.com/formulae-org/framework-js) you can find the source code for the Fōrmulæ framework and front-end program wirtten in JavaScript, to be used in a web browser.
 
 ### The packages
 
 With Fōrmulæ, you can create code to visualize, edit or manipulate expressions from many fields. The code is grouped in units called packages. The code for every package is hosted in the following repositories:
 
-| Package | Repository | Brief description |
-| ------- | ---------- | ----------------- |
+| Package | Repository (JavaScript edition) | Brief description |
+| ------- | ------------------------------- | ----------------- |
 | Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal, rational and complex numbers. Basic arithmetic, trascendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
 | Relation | [package-relation-js](https://github.com/formulae-org/package-relation-js) | Basic comparison operations, three-way comparison, minimum, maximum, membership. |
 | Logic | [package-logic-js](https://github.com/formulae-org/package-logic-js) | Logic literals, basic logic operations (negation, conjunction, disjunction, conditional, equivalence, exclusive disjunction). |
