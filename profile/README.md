@@ -2,9 +2,9 @@
 
 Fōrmulæ is a software framework for visualization and edition of complex expressions (either mathematical expressions or expressions from many other fields). Fōrmulæ also includes the manipulation of such these expressions, so Fōrmulæ is also a (Turing complete) programming —and symbolic— language. If you want to know more about Fōrmulæ, please refer to is website [formulae.org](https://formulae.org).
 
-### The framework
+### The base program
 
-[Here](https://github.com/formulae-org/framework-js) you can find the source code for the Fōrmulæ framework and front-end program wirtten in JavaScript, to be used in a web browser.
+[Here](https://github.com/formulae-org/formulae-js) you can find the source code for the base program wirtten in JavaScript, to be used in a web browser.
 
 ### The packages
 
