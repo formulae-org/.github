@@ -4,7 +4,7 @@ Fōrmulæ is a software framework for visualization and edition of complex expre
 
 ### The base program
 
-In the repository [formulae-js](https://github.com/formulae-org/formulae-js) you can find the source code for the base program wirtten in JavaScript, to be used in a web browser.
+In the repository [formulae-js](https://github.com/formulae-org/formulae-js) you can find the source code for the Fōrmulæ web application, written in JavaScript.
 
 ### The packages
 
