@@ -1,6 +1,14 @@
 # Fōrmulæ
 
-Fōrmulæ is a software framework for visualization and edition of complex expressions (either mathematical expressions or expressions from many other fields). Fōrmulæ also includes the manipulation of such these expressions, so Fōrmulæ is also a (Turing complete) programming —and symbolic— language. If you want to know more about Fōrmulæ, please refer to its website [formulae.org](https://formulae.org).
+Fōrmulæ is a free, open source, symbolic, visual, homoiconic, high-level, multi-paradigm, arbitrary-precision programming language for scripting in academic and research environments.
+
+The main objectives of the Fōrmulæ language are:
+
+* To create programs with a notation closer to algorithms and mathematics
+* To minimize the requirements for the programmer (only a web browser is needed)
+* To have modularity of the language, packages incorporating new elements to the language can be created and dinamically/selectively added.
+
+If you want to know more about Fōrmulæ, please refer to its website [formulae.org](https://formulae.org).
 
 ### The base program
 
