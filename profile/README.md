@@ -6,7 +6,7 @@ The main objectives of the Fōrmulæ language are:
 
 * To create programs with a notation closer to algorithms and mathematics
 * To minimize the requirements for the programmer (only a web browser is needed)
-* To have modularity of the language, packages incorporating new elements to the language can be created and dinamically/selectively added.
+* To have modularity of the language, packages incorporating new elements to the language can be created and dynamically/selectively added.
 
 If you want to know more about Fōrmulæ, please refer to its website [formulae.org](https://formulae.org).
 
