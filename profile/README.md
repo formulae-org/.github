@@ -35,12 +35,12 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 | Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Typesetting (see below). |
 | Visualization | [package-visualization-js](https://github.com/formulae-org/package-visualization-js) | Changing the look of expressions, font color, size and attributes (bold, italic), crossing out, arrangement of expressions. |
 | Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitwise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
+| Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar part management |
 
 Packages in development:
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
-| Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar  part management |
 | Localization | [package-localization-js](https://github.com/formulae-org/package-localization-js) | Languages, countries, scripts, numerals, calendars, locales, time zones. |
 | Plot | [package-plot-js](https://github.com/formulae-org/package-plot-js) | Mathematical plots. 2D function plot, 2D parametric plot, 2D polar curve, 3D parametric curve, 3D function surface, 3D parametric surface, surface map, surface contour. |
 
