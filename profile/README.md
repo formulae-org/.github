@@ -51,4 +51,4 @@ Moreover, with Fōrmulæ you can create formatted content (text with styles, use
 
 ### Gallery
 
-Visit [this Pinterest galley](https://www.pinterest.com/formulae_org/) of images created with Fōrmulæ.
+Visit [this Pinterest galley](https://www.pinterest.com/formulae_org/_created/) of images created with Fōrmulæ.
