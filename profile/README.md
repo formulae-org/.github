@@ -21,6 +21,7 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 | Package | Repository                      | Brief description |
 | ------- | ------------------------------- | ----------------- |
 | Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal, rational and complex numbers. Basic arithmetic, trascendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
+| Complex | [package-relation-js](https://github.com/formulae-org/package-complex-js) | Complex arithmetic. Imaginary unit, conjugate operation. |
 | Relation | [package-relation-js](https://github.com/formulae-org/package-relation-js) | Basic comparison operations, three-way comparison, minimum, maximum, membership. |
 | Logic | [package-logic-js](https://github.com/formulae-org/package-logic-js) | Logic literals, basic logic operations (negation, conjunction, disjunction, conditional, equivalence, exclusive disjunction). |
 | Expression | [package-expression-js](https://github.com/formulae-org/package-expression-js) | Common operations to expressions and reflection, such as cardinality, subexpression, insertion and deletion of subexpressions, serialization/deserialization, programatic creation of expressions. |
