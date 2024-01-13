@@ -20,6 +20,8 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 
 #### Base packages
 
+The folowing are fundamental packages
+
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
 | Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal and rational numbers. Basic arithmetic, trascendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
@@ -42,11 +44,15 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 
 #### Specialized packages
 
+The following packages are intended for specialized users
+
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
 | Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds |
 
 #### Packages in development
+
+The followng packages are in early stages of development
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
