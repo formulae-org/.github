@@ -62,7 +62,7 @@ The followng packages are in early stages of development
 | Localization | [package-localization-js](https://github.com/formulae-org/package-localization-js) | Languages, countries, scripts, numerals, calendars, locales, time zones. |
 -->
 
-### Packages planned for future development ###
+#### Packages planned for future development ###
 
 ### The content of website
 
