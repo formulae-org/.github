@@ -62,6 +62,8 @@ The followng packages are in early stages of development
 | Localization | [package-localization-js](https://github.com/formulae-org/package-localization-js) | Languages, countries, scripts, numerals, calendars, locales, time zones. |
 -->
 
+### Packages planned for future development ###
+
 ### The content of website
 
 Moreover, with Fōrmulæ you can create formatted content (text with styles, use of images, paragraphs, bulleted list, alignment, etc.) (typesetting). All the content of its website —tutorials, reference, examples, etc.— is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
