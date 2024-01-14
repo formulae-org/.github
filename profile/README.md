@@ -49,6 +49,7 @@ The following packages are intended for specialized users
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
 | Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds |
+| Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | |
 
 #### Packages in development
 
