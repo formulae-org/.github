@@ -67,7 +67,8 @@ The followng packages are in early stages of development
 
 | Name | Brief description |
 | ---- | ----------------- |
-| Statistics | |
+| Statistics | Statistical computing |
+
 
 ### The content of website
 
