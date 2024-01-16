@@ -68,6 +68,7 @@ The followng packages are in early stages of development
 | Name | Brief description |
 | ---- | ----------------- |
 | Statistics | Statistical computing |
+| Database access | Connection to a SQL database, execution of SQL sentences |
 
 
 ### The content of website
