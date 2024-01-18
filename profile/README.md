@@ -24,7 +24,7 @@ The folowing are fundamental packages
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
-| Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal and rational numbers. Basic arithmetic, trascendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
+| Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal and rational numbers. Basic arithmetic, transcendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
 | Complex | [package-complex-js](https://github.com/formulae-org/package-complex-js) | Complex arithmetic. Imaginary unit, conjugate operation. |
 | Relation | [package-relation-js](https://github.com/formulae-org/package-relation-js) | Basic comparison operations, three-way comparison, minimum, maximum, membership. |
 | Logic | [package-logic-js](https://github.com/formulae-org/package-logic-js) | Logic literals, basic logic operations (negation, conjunction, disjunction, conditional, equivalence, exclusive disjunction). |
