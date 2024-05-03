@@ -4,7 +4,7 @@
 ![github-profile](/images/formulae.png)
 -->
 
-Fōrmulæ is a free, open source, symbolic, visual, homoiconic, high-level, multi-paradigm, arbitrary-precision programming language for scripting in academic and research environments.
+**Fōrmulæ** is a free, open source, symbolic, visual, homoiconic, high-level, multi-paradigm, arbitrary-precision programming language for scripting in academic and research environments.
 
 The main objectives of the Fōrmulæ language are:
 
