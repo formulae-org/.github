@@ -46,7 +46,7 @@ The folowing are fundamental packages
 | Visualization | [package-visualization-js](https://github.com/formulae-org/package-visualization-js) | Changing the look of expressions, font color, size and attributes (bold, italic), crossing out, arrangement of expressions. |
 | Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitwise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
 | Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar part management |
-| Data | [package-data-js](https://github.com/formulae-org/package-data-js) | Data manipulation |
+| Data | [package-data-js](https://github.com/formulae-org/package-data-js) | Conversion between byte buffers and arbitrary strings, Base64 strings, hexadecimal strings, etc. |
 
 #### Specialized packages
 
