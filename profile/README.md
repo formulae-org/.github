@@ -42,7 +42,6 @@ The folowing are fundamental packages
 | Raster graphics | [package-graphic-raster-js](https://github.com/formulae-org/package-graphic-raster-js) | Creation of graphics, pixel operations, outline and filling of geometric primitives (lines, rectangles, ellipses, arcs), inclusion of other graphics, text, turtle graphics, primitives on coordinates (translations, rotating, scaling). |
 | Charts | [package-chart-js](https://github.com/formulae-org/package-chart-js) | Creation of charts from data. Bar, line, area, dot, step, and pie types. |
 | Diagramming | [package-diagramming-js](https://github.com/formulae-org/package-diagramming-js) | Diagrams, tree structures (for now). |
-| Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Typesetting (see below). |
 | Visualization | [package-visualization-js](https://github.com/formulae-org/package-visualization-js) | Changing the look of expressions, font color, size and attributes (bold, italic), crossing out, arrangement of expressions. |
 | Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitwise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
 | Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar part management |
@@ -57,7 +56,7 @@ The following packages are intended for specialized users
 | Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds |
 | Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | Kets, quantum circuits, quantum gates, execution of quantum circuitss, unitary matrix of a quantum circuit |
 
-#### Packages in development
+#### Packages under development
 
 The followng packages are in early stages of development
 
@@ -76,10 +75,17 @@ The followng packages are in early stages of development
 | Statistics | Statistical computing |
 | Database access | Connection to a SQL database, execution of SQL statements |
 
+#### Packages for typesetting ###
+
+Moreover, with **Fōrmulæ** you can create formatted content (text with styles, use of images, paragraphs, bulleted list, alignment, etc.) (typesetting).
+
+| Package | Repository | Brief description |
+| ------- | ---------- | ----------------- |
+| Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Typesetting |
 
 ### The content of website
 
-Moreover, with Fōrmulæ you can create formatted content (text with styles, use of images, paragraphs, bulleted list, alignment, etc.) (typesetting). All the content of its website —tutorials, reference, examples, etc.— is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
+All the content of its website —tutorials, reference, examples, etc.— is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
 
 ### Image gallery
 
