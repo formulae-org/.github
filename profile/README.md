@@ -38,7 +38,7 @@ The folowing are fundamental packages
 | Symbolic | [package-symbolic-js](https://github.com/formulae-org/package-symbolic-js) | Definition and referecing of local and global symbols and functions, lambda expressions. |
 | Strings | [package-string-js](https://github.com/formulae-org/package-string-js) | Creation and operations with strings, text, and regular expressions, Unicode support. |
 | Color | [package-color-js](https://github.com/formulae-org/package-color-js) | Creation and operations on colors, visual representation of colors. |
-| Programming | [package-programming-js](https://github.com/formulae-org/package-programming-js) | Structured programming structures, such as sequences (blocks), selections and iterations. Visualizacion as either flowchart or indented code. |
+| Programming | [package-programming-js](https://github.com/formulae-org/package-programming-js) | Structured programming structures, such as sequence, decision and iteration expressions. Visualizacion as either flowchart or indented code. |
 | Raster graphics | [package-graphic-raster-js](https://github.com/formulae-org/package-graphic-raster-js) | Creation of graphics, pixel operations, outline and filling of geometric primitives (lines, rectangles, ellipses, arcs), inclusion of other graphics, text, turtle graphics, primitives on coordinates (translations, rotating, scaling). |
 | Charts | [package-chart-js](https://github.com/formulae-org/package-chart-js) | Creation of charts from data. Bar, line, area, dot, step, and pie types. |
 | Diagramming | [package-diagramming-js](https://github.com/formulae-org/package-diagramming-js) | Diagrams, tree structures (for now). |
