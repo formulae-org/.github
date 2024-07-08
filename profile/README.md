@@ -41,10 +41,10 @@ The folowing are fundamental packages
 | Programming | [package-programming-js](https://github.com/formulae-org/package-programming-js) | Structured programming structures, such as sequence, decision and iteration expressions. Visualizacion as either flowchart or indented code. |
 | Raster graphics | [package-graphic-raster-js](https://github.com/formulae-org/package-graphic-raster-js) | Creation of graphics, pixel operations, outline and filling of geometric primitives (lines, rectangles, ellipses, arcs), inclusion of other graphics, text, turtle graphics, primitives on coordinates (translations, rotating, scaling). |
 | Charts | [package-chart-js](https://github.com/formulae-org/package-chart-js) | Creation of charts from data. Bar, line, area, dot, step, and pie types. |
-| Diagramming | [package-diagramming-js](https://github.com/formulae-org/package-diagramming-js) | Diagrams, tree structures (for now). |
+| Diagramming | [package-diagramming-js](https://github.com/formulae-org/package-diagramming-js) | Diagrams, tree structures. |
 | Visualization | [package-visualization-js](https://github.com/formulae-org/package-visualization-js) | Changing the look of expressions, font color, size and attributes (bold, italic), crossing out, arrangement of expressions. |
 | Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitwise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
-| Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar part management |
+| Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar part management. |
 | Data | [package-data-js](https://github.com/formulae-org/package-data-js) | Conversion between byte buffers and arbitrary strings, Base64 strings, hexadecimal strings, etc. |
 
 #### Specialized packages
@@ -53,9 +53,9 @@ The following packages are intended for specialized users
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
-| Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds |
+| Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds. |
 | Cryptography | [package-cryptography-js](https://github.com/formulae-org/package-cryptography-js) | Key generation, hash digestion, encryption/decryption, generation/verification of digital signatures. |
-| Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | Kets, quantum circuits, quantum gates, execution of quantum circuitss, unitary matrix of a quantum circuit |
+| Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | Kets, quantum circuits, quantum gates, execution of quantum circuitss, unitary matrix of a quantum circuit. |
 
 #### Packages under development
 
