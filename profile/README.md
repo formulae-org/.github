@@ -55,7 +55,7 @@ The following packages are intended for specialized users
 | ------- | ---------- | ----------------- |
 | Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds. |
 | Cryptography | [package-cryptography-js](https://github.com/formulae-org/package-cryptography-js) | Key generation, hash digestion, encryption/decryption, generation/verification of digital signatures. |
-| Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | Kets, quantum circuits, quantum gates, execution of quantum circuitss, unitary matrix of a quantum circuit. |
+| Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | Kets, quantum circuits, quantum gates, execution of quantum circuits, unitary matrix of a quantum circuit. |
 
 #### Packages under development
 
