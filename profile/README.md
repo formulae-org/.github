@@ -59,7 +59,7 @@ The following packages are intended for specialized users
 
 #### Packages under development
 
-The followng packages are in early stages of development
+Actually, all Fōrmulæ packages are in continuos revision and improvement, but the followng packages are in early stages of development:
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
