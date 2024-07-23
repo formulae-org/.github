@@ -1,4 +1,4 @@
-# 👋 Welcome
+# Welcome
 
 <!--
 ![github-profile](/images/formulae.png)
