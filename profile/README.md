@@ -24,7 +24,7 @@ With Fōrmulæ, you can create code to visualize, edit or manipulate expressions
 
 #### Base packages
 
-The folowing are fundamental packages
+The following are fundamental packages
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
