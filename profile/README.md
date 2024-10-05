@@ -83,11 +83,17 @@ Moreover, with **Fōrmulæ** you can create formatted content (text with styles,
 
 | Package | Repository | Brief description |
 | ------- | ---------- | ----------------- |
-| Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Typesetting |
+| Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Document typesetting |
 
 ### The content of website
 
-All the content of its website —tutorials, reference, examples, etc.— is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
+All the content of its website is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
+
+Examples of the content:
+
+* [Examples](https://formulae.org/?script=articles/Examples_by_category)
+* [Tutorials](https://formulae.org/?script=articles/Tutorials)
+* [Reference (work in progress)](https://formulae.org/?script=reference/Reference)
 
 ### Image gallery
 
