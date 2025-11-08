@@ -65,6 +65,7 @@ Fōrmulæ packages are in continuos revision and improvement. However, the follo
 | ------- | ---------- | ----------------- |
 | Filesystem | [package-filesystem-js](https://github.com/formulae-org/package-filesystem-js)| Management of files and directories |
 | Plot | [package-plot-js](https://github.com/formulae-org/package-plot-js) | Mathematical plots. 2D function plot, 2D parametric plot, 2D polar curve, 3D parametric curve, 3D function surface, 3D parametric surface, surface map, surface contour. |
+| Library | [package-library-js](https://github.com/formulae-org/package-library-js) | Library management |
 
 <!--
 | Localization | [package-localization-js](https://github.com/formulae-org/package-localization-js) | Languages, countries, scripts, numerals, calendars, locales, time zones. |
