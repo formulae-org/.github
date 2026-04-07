@@ -11,8 +11,6 @@ in the browser.
 
 🌐 **Try it now at [formulae.org](https://formulae.org)**
 
----
-
 ## What makes it different
 
 - **Visual, not textual.** Expressions are trees you assemble visually,
@@ -26,8 +24,6 @@ in the browser.
 - **Modular.** Functionality is organized into independent packages covering
   arithmetic, symbolic algebra, logic, lists, programming, plotting,
   matrices, typesetting, chemistry, cryptography, and more.
-
----
 
 ## Repositories
 
@@ -45,8 +41,6 @@ Each package lives in its own repository named `package-{name}-js`:
 `programming` · `typesetting` · `chart` · `internet` · `chemistry` ·
 `cryptography` · `data` · `time` · `color` · and more.
 
----
-
 ## Getting started
 
 The easiest way to use Fōrmulæ is at [formulae.org](https://formulae.org)
@@ -57,8 +51,6 @@ To run it locally, clone [formulae-js](https://github.com/formulae-org/formulae-
 and serve the `src/` directory with any static HTTP server.
 -->
 
----
-
 ## Contributing
 
 Contributions are welcome — bug reports, new packages, translations, and
@@ -66,8 +58,6 @@ content (tutorials, articles). Please open an issue or pull request in the
 relevant repository.
 
 For questions or general contact: **contact@formulae.org**
-
----
 
 ## License
 
