@@ -1,103 +1,75 @@
-# Welcome
+![Alt text](banner.png)
+
+# Fōrmulæ
+
+**A visual, web-based programming language and interactive notebook.**
+
+Fōrmulæ lets you build and evaluate tree-structured expressions through a
+visual editor — no text syntax to learn. Expressions are rendered as
+mathematical-style notation on an HTML canvas, and evaluation happens live
+in the browser.
+
+🌐 **Try it now at [formulae.org](https://formulae.org)**
+
+---
+
+## What makes it different
+
+- **Visual, not textual.** Expressions are trees you assemble visually,
+  not lines of code you type.
+- **Mathematical notation first.** The display closely follows standard
+  mathematical and scientific conventions.
+- **Notebook style.** The REPL is a sequence of rows: each input expression
+  is followed immediately by its evaluated output.
+- **No install, no dependencies.** Runs entirely in the browser. Vanilla
+  JavaScript — no bundler, no npm, no build step.
+- **Modular.** Functionality is organized into independent packages covering
+  arithmetic, symbolic algebra, logic, lists, programming, plotting,
+  matrices, typesetting, chemistry, cryptography, and more.
+
+---
+
+## Repositories
+
+| Repository | Description |
+|---|---|
+| [formulae-js](https://github.com/formulae-org/formulae-js) | Core web application — engine, canvas renderer, REPL |
+| [web-content](https://github.com/formulae-org/web-content) | Official tutorials, articles and examples (`.formulae` files) |
+| `package-*-js` | One repository per package (see full list below) |
+
+### Packages
+
+Each package lives in its own repository named `package-{name}-js`:
+
+`math-arithmetic` · `symbolic` · `logic` · `list` · `matrix` · `plot` ·
+`programming` · `typesetting` · `chart` · `internet` · `chemistry` ·
+`cryptography` · `data` · `time` · `color` · and more.
+
+---
+
+## Getting started
+
+The easiest way to use Fōrmulæ is at [formulae.org](https://formulae.org)
+— nothing to install.
 
 <!--
-![github-profile](/images/formulae.png)
+To run it locally, clone [formulae-js](https://github.com/formulae-org/formulae-js)
+and serve the `src/` directory with any static HTTP server.
 -->
 
-**Fōrmulæ** is a free, open source, symbolic, visual, homoiconic, high-level, multi-paradigm, arbitrary-precision programming language for scripting in academic and research environments.
+---
 
-The main objectives of the Fōrmulæ language are:
+## Contributing
 
-* To create programs with a notation closer to algorithms and mathematics
-* To minimize the requirements for the programmer (only a web browser is needed)
-* To have modularity of the language, packages incorporating new elements to the language can be created and dynamically/selectively added.
+Contributions are welcome — bug reports, new packages, translations, and
+content (tutorials, articles). Please open an issue or pull request in the
+relevant repository.
 
-If you want to know more about Fōrmulæ, please refer to its website [formulae.org](https://formulae.org).
+For questions or general contact: **contact@formulae.org**
 
-### The base program
+---
 
-In the repository [formulae-js](https://github.com/formulae-org/formulae-js) you can find the source code for the Fōrmulæ web application, written in JavaScript.
+## License
 
-### The packages
-
-With Fōrmulæ, you can create code to visualize, edit or manipulate expressions from many fields. The code is grouped in units called packages. The code for every package is hosted in the following repositories:
-
-#### Base packages
-
-The following are fundamental packages
-
-| Package | Repository | Brief description |
-| ------- | ---------- | ----------------- |
-| Arithmetics | [package-arithmetic-js](https://github.com/formulae-org/package-arithmetic-js) | Integer, decimal and rational numbers. Basic arithmetic, transcendental, trigonometric, hyperbolic operations with arbitrary precision integers and decimals. Rounding modes. |
-| Algebra | [package-algebra-js](https://github.com/formulae-org/package-algebra-js) | Basic expression simplifications based on algebra rules. |
-| Complex | [package-complex-js](https://github.com/formulae-org/package-complex-js) | Complex arithmetic. Imaginary unit, complex conjugate. |
-| Relation | [package-relation-js](https://github.com/formulae-org/package-relation-js) | Basic comparison operations, three-way comparison, minimum, maximum, membership. |
-| Logic | [package-logic-js](https://github.com/formulae-org/package-logic-js) | Logic literals, basic logic operations (negation, conjunction, disjunction, conditional, equivalence, exclusive disjunction). |
-| Expression | [package-expression-js](https://github.com/formulae-org/package-expression-js) | Common operations to expressions and reflection, such as cardinality, subexpression, insertion and deletion of subexpressions, serialization/deserialization, programatic creation of expressions. |
-| List | [package-list-js](https://github.com/formulae-org/package-list-js) | List manipulation, list and table creation, mathematical operations with lists and matrices |
-| Matrix | [package-matrix-js](https://github.com/formulae-org/package-matrix-js) | Matrix operations |
-| Symbolic | [package-symbolic-js](https://github.com/formulae-org/package-symbolic-js) | Definition and referecing of local and global symbols and functions, lambda expressions. |
-| Strings | [package-string-js](https://github.com/formulae-org/package-string-js) | Creation and operations with strings, text, and regular expressions, Unicode support. |
-| Color | [package-color-js](https://github.com/formulae-org/package-color-js) | Creation and operations on colors, visual representation of colors. |
-| Programming | [package-programming-js](https://github.com/formulae-org/package-programming-js) | Structured programming structures, such as sequence, decision and iteration expressions. Visualizacion as either flowchart or indented code. |
-| Raster graphics | [package-graphic-raster-js](https://github.com/formulae-org/package-graphic-raster-js) | Creation of graphics, pixel operations, outline and filling of geometric primitives (lines, rectangles, ellipses, arcs), inclusion of other graphics, text, turtle graphics, primitives on coordinates (translations, rotating, scaling). |
-| Charts | [package-chart-js](https://github.com/formulae-org/package-chart-js) | Creation of charts from data. Bar, line, area, dot, step, and pie types. |
-| Diagramming | [package-diagramming-js](https://github.com/formulae-org/package-diagramming-js) | Diagrams, tree structures. |
-| Visualization | [package-visualization-js](https://github.com/formulae-org/package-visualization-js) | Changing the look of expressions, font color, size and attributes (bold, italic), crossing out, arrangement of expressions. |
-| Bitwise | [package-bitwise-js](https://github.com/formulae-org/package-bitwise-js) | Bitwise (and, or, not, xor), bit length, bit count, shifts, bit (set, get, clear, flip) operation on arbitrary length integers. |
-| Time | [package-time-js](https://github.com/formulae-org/package-time-js) | Time datatype and operations, Gregorian calendar part management. |
-| Data | [package-data-js](https://github.com/formulae-org/package-data-js) | Conversion between byte buffers and arbitrary strings, Base64 strings, hexadecimal strings, etc. |
-| Internet | [package-internet-js](https://github.com/formulae-org/package-internet-js) | Internet operatios. Links |
-
-#### Specialized packages
-
-The following packages are intended for specialized users
-
-| Package | Repository | Brief description |
-| ------- | ---------- | ----------------- |
-| Chemistry | [package-chemistry-js](https://github.com/formulae-org/package-chemistry-js) | Chemical elements, homonuclear & heteronuclear compounds. |
-| Cryptography | [package-cryptography-js](https://github.com/formulae-org/package-cryptography-js) | Key generation, hash digestion, encryption/decryption, generation/verification of digital signatures. |
-| Quantum programming | [package-quantum-js](https://github.com/formulae-org/package-quantum-js) | Kets, quantum circuits, quantum gates, execution of quantum circuits, unitary matrix of a quantum circuit. |
-
-#### Packages under development
-
-Fōrmulæ packages are in continuos revision and improvement. However, the following packages are in early stages of development:
-
-| Package | Repository | Brief description |
-| ------- | ---------- | ----------------- |
-| Filesystem | [package-filesystem-js](https://github.com/formulae-org/package-filesystem-js)| Management of files and directories |
-| Plot | [package-plot-js](https://github.com/formulae-org/package-plot-js) | Mathematical plots. 2D function plot, 2D parametric plot, 2D polar curve, 3D parametric curve, 3D function surface, 3D parametric surface, surface map, surface contour. |
-| Library | [package-library-js](https://github.com/formulae-org/package-library-js) | Library management |
-
-<!--
-| Localization | [package-localization-js](https://github.com/formulae-org/package-localization-js) | Languages, countries, scripts, numerals, calendars, locales, time zones. |
--->
-
-#### Packages planned for future development ###
-
-| Name | Brief description |
-| ---- | ----------------- |
-| Statistics | Statistical computing |
-| Database access | Connection to a SQL database, execution of SQL statements |
-
-#### Packages for typesetting ###
-
-Moreover, with **Fōrmulæ** you can create formatted content (text with styles, use of images, paragraphs, bulleted list, alignment, etc.) (typesetting).
-
-| Package | Repository | Brief description |
-| ------- | ---------- | ----------------- |
-| Typesetting | [package-typesetting-js](https://github.com/formulae-org/package-typesetting-js) | Document typesetting |
-
-### The content of website
-
-All the content of its website is written in Fōrmulæ itself. This content is also hosted in the [web-content](https://github.com/formulae-org/web-content) repository.
-
-Examples of the content:
-
-* [Examples](https://formulae.org/?script=articles/Examples_by_category)
-* [Tutorials](https://formulae.org/?script=articles/Tutorials)
-* [Reference (work in progress)](https://formulae.org/?script=reference/Reference)
-
-### Image gallery
-
-Visit [this Pinterest galley](https://www.pinterest.com/formulae_org/_created/) of images created with Fōrmulæ.
+All repositories are released under the
+[GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
