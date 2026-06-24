@@ -38,11 +38,11 @@ The web app loads a base set of packages at startup and can load others on deman
 
 ## Getting started
 
-The easiest way to use Fōrmulæ is at [formulae.org](https://formulae.org) — nothing to install. New here? Open a **showcase** straight from the site (e.g. [`?script=showcases/Arithmetic`](https://formulae.org/?script=showcases/Arithmetic)) to see a package at work, or try the AI **Converse** demo at [`?script=examples/AI converse`](https://formulae.org/?script=examples/AI%20converse).
+The easiest way to use Fōrmulæ is at [formulae.org](https://formulae.org) — nothing to install. New here? Start with the [**Tutorial**](https://formulae.org/?script=articles/Tutorial), which walks you through the interface in about 15 minutes. Then open a **showcase** straight from the site (e.g. [`?script=showcases/Arithmetic`](https://formulae.org/?script=showcases/Arithmetic)) to see a package at work, or try the AI **Converse** demo at [`?script=examples/AI converse`](https://formulae.org/?script=examples/AI%20converse).
 
 ## Contributing
 
-Contributions are welcome — bug reports, new packages, translations, and content (articles, showcases, examples). Please open an issue or pull request in the relevant repository.
+Contributions are welcome — bug reports, new packages, translations, and content (articles, showcases, examples). Building a package? The [**Developer's guide for packages**](https://formulae.org/?script=collaboration/guides/package_developer/index) walks you through defining, visualizing, editing, and reducing expressions. Please open an issue or pull request in the relevant repository.
 
 For questions or general contact: **contact@formulae.org**
 
